@@ -54,7 +54,7 @@ research_interests:
 
 ---
 
-# ⚡ Tech Stack
+# ⚡ Tech Stack platinum batch boy
 
 <div align="center">
 
