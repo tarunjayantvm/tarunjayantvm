@@ -1,103 +1,114 @@
 <div align="center">
 
-<!-- HERO BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0a0a0f,30:0d1b3e,70:1a1a6e,100:4f8ef7&height=280&section=header&text=Tarun%20Jayant%20V%20M&fontSize=62&fontColor=ffffff&animation=blinking&fontAlignY=45&stroke=4f8ef7&strokeWidth=3&desc=⚡%20AI%2FML%20Engineer%20•%20Full-Stack%20Developer%20•%20Agentic%20AI%20Builder%20⚡&descAlignY=68&descSize=16&descColor=8ab4f8" />
+<!-- HERO BANNER - Using 'shark' type which renders cleanly with full name -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Tarun%20Jayant%20V%20M&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=AI%2FML%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Agentic%20AI%20Builder&descAlignY=80&descSize=17&descColor=a8cfff" />
 
-<br/>
+</div>
 
 <!-- GLOWING TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=2500&pause=600&color=4F8EF7&center=true&vCenter=true&width=700&height=50&lines=🧠+Building+Agentic+AI+Systems+%7C+MCP+%7C+RAG;🏭+Industrial+AI+%7C+Healthcare+AI+%7C+MLOps;☁️+AWS+Certified+Cloud+Practitioner+%7C+IEEE+Published;🔬+3+Industry+Internships+%7C+ABB+%7C+Infosys+%7C+HCL;🚀+Full-Stack+AI+Apps+from+Idea+to+Deployment)](https://git.io/typing-svg)
+<div align="center">
 
-<br/>
-
-<!-- LOCATION & CONTACT PILLS -->
-![Location](https://img.shields.io/badge/📍_Coimbatore,_TN-0a0f1e?style=flat-square&logoColor=4f8ef7&color=0d1b3e&labelColor=0a0f1e)
-![Email](https://img.shields.io/badge/✉_tarunjayant.2301250%40srec.ac.in-0d1b3e?style=flat-square&color=0d1b3e&labelColor=0a0f1e)
-![College](https://img.shields.io/badge/🎓_B.E._CSE_@_SREC_(2027)-0d1b3e?style=flat-square&color=0d1b3e&labelColor=0a0f1e)
-
-<br/>
-
-<!-- SOCIAL LINKS -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarunjayant)
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
-[![AWS](https://img.shields.io/badge/AWS_Certified-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com)
-[![IEEE](https://img.shields.io/badge/IEEE_Published-%2300629B.svg?style=for-the-badge&logo=ieee&logoColor=white)](https://doi.org/10.1109/ICNGCS64900.2025.11183418)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2800&pause=700&color=58A6FF&center=true&vCenter=true&repeat=true&width=750&height=48&lines=🧠+Agentic+AI+%7C+MCP+Servers+%7C+RAG+Pipelines;🏭+Industrial+AI+%7C+NeuroOps+%7C+ABB+Hackathon+2026;🏥+Healthcare+AI+%7C+IEEE+Published+%7C+ICNGCS+2025;☁️+AWS+Certified+Cloud+Practitioner;🔬+Infosys+%7C+IBM+SkillsBuild+%7C+HCL+Technologies)](https://git.io/typing-svg)
 
 </div>
 
 <br/>
 
-<!-- ANIMATED DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<!-- SOCIAL BADGES -->
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tarun%20Jayant-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarunjayant)
+[![GitHub](https://img.shields.io/badge/GitHub-tarunjayant-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tarunjayant)
+[![AWS](https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/certification/)
+[![IEEE](https://img.shields.io/badge/IEEE-Published-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://doi.org/10.1109/ICNGCS64900.2025.11183418)
+
+📍 Coimbatore, Tamil Nadu, India &nbsp;|&nbsp; 📧 tarunjayant.2301250@srec.ac.in &nbsp;|&nbsp; 🎓 B.E. CSE @ SREC (2027)
+
+</div>
 
 <br/>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> &nbsp; About Me
+---
 
-```typescript
-const tarun = {
-  name        : "Tarun Jayant V M",
-  location    : "Coimbatore, Tamil Nadu 🇮🇳",
-  education   : "B.E. CSE @ SREC | Expected 2027",
-  focus       : ["Agentic AI", "RAG Pipelines", "MCP Servers", "Full-Stack AI Apps"],
-  internships : ["Infosys (AI/ML)", "IBM SkillsBuild via AICTE", "HCL Technologies"],
-  publication : "IEEE ICNGCS 2025 — HealthScribe (DOI: 10.1109/ICNGCS64900.2025.11183418)",
-  certs       : ["AWS Certified Cloud Practitioner", "NPTEL | IIT Madras"],
-  motto       : "Build systems that make operators smarter & communities healthier 🚀"
-};
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+---
+
+## 👾 About Me
+
+```python
+class TarunJayant:
+    name       = "Tarun Jayant V M"
+    location   = "Coimbatore, Tamil Nadu 🇮🇳"
+    education  = "B.E. CSE — SREC | Class of 2027"
+    roles      = ["AI/ML Engineer", "Full-Stack Developer", "Agentic AI Builder"]
+    internships = [
+        "🤖 Infosys         → Image Segmentation (PyTorch, U-Net)",
+        "🔬 IBM SkillsBuild → Predictive Maintenance (scikit-learn, IBM Cloud)",
+        "⚙️  HCL Technologies → Spring Boot Full-Stack (Java, REST APIs)",
+    ]
+    publications = ["IEEE ICNGCS 2025 — HealthScribe RAG Pipeline"]
+    certifications = ["AWS Certified Cloud Practitioner", "NPTEL | IIT Madras"]
+    currently_learning = ["DSA Patterns (LeetCode)", "Distributed Systems", "TensorFlow"]
+    motto = "Build systems that make operators smarter & communities healthier 🚀"
 ```
 
-<br/>
+---
 
-<!-- DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<br/>
+---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp; Tech Arsenal
+## ⚡ Tech Stack
 
 <div align="center">
 
-### 🤖 AI / ML & Agentic Systems
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Claude API](https://img.shields.io/badge/Claude_API-%23191919.svg?style=for-the-badge&logo=anthropic&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-%231C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-RAG-%2300BFAE.svg?style=for-the-badge&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP_Protocol-%230F3460.svg?style=for-the-badge&logoColor=white)
+**🤖 AI / ML & Agentic**
 
-### 🖥️ Full-Stack & Backend
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Claude API](https://img.shields.io/badge/Claude%20API-191919?style=flat-square&logo=anthropic&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-RAG-00BFAE?style=flat-square)
+![MCP](https://img.shields.io/badge/MCP%20Protocol-0F3460?style=flat-square)
+![LLM Pipelines](https://img.shields.io/badge/LLM%20Pipelines-6C3FC8?style=flat-square)
 
-### 🗄️ Cloud, Infra & Databases
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![IBM Cloud](https://img.shields.io/badge/IBM_Cloud-%231261FE.svg?style=for-the-badge&logo=ibmcloud&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+**🖥️ Full-Stack & Backend**
 
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**🗄️ Cloud, Infra & Databases**
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![IBM Cloud](https://img.shields.io/badge/IBM%20Cloud-1261FE?style=flat-square&logo=ibmcloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
+
+**💻 Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 
 </div>
 
-<br/>
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<br/>
+---
 
 ## 🚀 Featured Projects
 
@@ -105,216 +116,179 @@ const tarun = {
 
 <div align="center">
 
-<!-- PROJECT 1 -->
-<a href="#">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=tarunjayant&repo=neuroops&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4f8ef7&icon_color=4f8ef7&text_color=a8b2d8" />
-</a>
+### 🏭 NeuroOps — AI-Powered Industrial HMI Dashboard
+
+[![React](https://img.shields.io/badge/React%2018-61DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://typescriptlang.org)
+[![Claude API](https://img.shields.io/badge/Claude%20API-191919?style=flat-square&logo=anthropic&logoColor=white)](https://anthropic.com)
+[![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)](https://vitejs.dev)
+[![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
 
 </div>
 
-<br/>
+> 🏆 Built for the **ABB / FlowZint Hackathon 2026** with team **MindMesh**
 
-### 🏭 NeuroOps — AI-Powered Industrial HMI Dashboard
-> *ABB/FlowZint Hackathon 2026 | Team MindMesh*
+Agentic AI copilot for industrial operators — real-time alarm triage, SCADA telemetry simulation, and role-based AI guidance across **Operator / Engineer / Manager** profiles powered by the Anthropic Claude API.
 
-<table>
-<tr>
-<td>
-
-**What it does:** Agentic AI copilot for industrial operators — real-time alarm triage, SCADA telemetry simulation, and role-based AI guidance across Operator / Engineer / Manager profiles.
-
-**Key highlights:**
-- 🎯 **40% reduction** in alarm response time
-- 🧠 **35% improvement** in decision accuracy
-- 🗣️ Web Speech API voice alerts + complete audit trail
-- 🔒 Full alarm lifecycle: Active → Acknowledged → Resolved
-
-</td>
-<td>
-
-![React](https://img.shields.io/badge/React_18-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Claude API](https://img.shields.io/badge/Claude_API-191919?style=flat-square&logo=anthropic&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-</td>
-</tr>
-</table>
+```
+✅ 40% reduction in alarm response time
+✅ 35% improvement in decision accuracy  
+✅ Full alarm lifecycle: Active → Acknowledged → Resolved
+✅ Web Speech API voice alerts + timestamped audit trail
+✅ 5 equipment types monitored simultaneously
+```
 
 ---
+
+<div align="center">
 
 ### 🏥 HealthScribe — Clinical NLP & RAG Pipeline
-> *IEEE Published | DOI: 10.1109/ICNGCS64900.2025.11183418*
 
-<table>
-<tr>
-<td>
+[![FAISS](https://img.shields.io/badge/FAISS-00BFAE?style=flat-square)](https://faiss.ai)
+[![Mistral](https://img.shields.io/badge/Mistral%20LLM-F28C28?style=flat-square)](https://mistral.ai)
+[![BERT](https://img.shields.io/badge/Bio_ClinicalBERT-4B4F56?style=flat-square&logo=huggingface&logoColor=white)](https://huggingface.co)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://postgresql.org)
+[![IEEE](https://img.shields.io/badge/IEEE%20Published-00629B?style=flat-square&logo=ieee&logoColor=white)](https://doi.org/10.1109/ICNGCS64900.2025.11183418)
 
-**What it does:** End-to-end RAG pipeline for clinical document intelligence — extracts medical entities, ingests multi-modal documents (PDFs, scans), and answers complex clinical queries.
+</div>
 
-**Key highlights:**
-- 📄 **IEEE-published** at ICNGCS 2025
-- 🔬 Bio_ClinicalBERT NER + OCR ingestion pipeline
-- 🔍 FAISS vector search + Mistral LLM for Q&A
-- 🏥 Multi-modal clinical document processing
+> 📄 **IEEE Published** at ICNGCS 2025 — DOI: [10.1109/ICNGCS64900.2025.11183418](https://doi.org/10.1109/ICNGCS64900.2025.11183418)
 
-</td>
-<td>
+End-to-end Retrieval-Augmented Generation pipeline for clinical document intelligence — Bio_ClinicalBERT NER, OCR-powered ingestion, FAISS vector search, and Mistral LLM for complex medical Q&A.
 
-![FAISS](https://img.shields.io/badge/FAISS-00BFAE?style=flat-square&logoColor=white)
-![Mistral](https://img.shields.io/badge/Mistral_LLM-F28C28?style=flat-square&logoColor=white)
-![BERT](https://img.shields.io/badge/Bio_ClinicalBERT-4B4F56?style=flat-square&logo=huggingface&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![IEEE](https://img.shields.io/badge/IEEE-00629B?style=flat-square&logo=ieee&logoColor=white)
-
-</td>
-</tr>
-</table>
+```
+✅ IEEE-published clinical AI system
+✅ Bio_ClinicalBERT for medical named entity recognition  
+✅ FAISS vector search over clinical document corpus
+✅ Multi-modal ingestion: PDFs, scanned documents, text
+```
 
 ---
+
+<div align="center">
 
 ### 🔗 MCP Server for Hospital Data Integration
-> *GE Healthcare Collaboration | HL7/FHIR + DICOM*
 
-<table>
-<tr>
-<td>
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://docker.com)
+[![HL7/FHIR](https://img.shields.io/badge/HL7%2FFHIR-E74C3C?style=flat-square)](https://hl7.org/fhir)
+[![DICOM](https://img.shields.io/badge/DICOM-0F3460?style=flat-square)](https://dicomstandard.org)
+[![MCP](https://img.shields.io/badge/MCP%20Protocol-6C3FC8?style=flat-square)](https://modelcontextprotocol.io)
 
-**What it does:** Model Context Protocol server that bridges disconnected hospital systems (EHR + PACS) with LLM-powered clinical querying for real-time patient data retrieval.
+</div>
 
-**Key highlights:**
-- ⚡ **40% reduction** in integration setup time
-- 🔗 GE Healthcare + HAPI FHIR + Orthanc PACS
-- 🤖 Perplexity Sonar Pro for cross-system queries
-- 🐳 Fully Dockerized microservice architecture
+> 🏥 GE Healthcare Collaboration — bridging **EHR + PACS** with LLM-powered clinical querying
 
-</td>
-<td>
+Model Context Protocol server integrating HAPI FHIR, Orthanc PACS, and GE Healthcare via Dockerized microservices — enabling cross-system clinical queries via Perplexity Sonar Pro.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![HL7/FHIR](https://img.shields.io/badge/HL7%2FFHIR-E74C3C?style=flat-square&logoColor=white)
-![DICOM](https://img.shields.io/badge/DICOM-0F3460?style=flat-square&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP_Protocol-6C3FC8?style=flat-square&logoColor=white)
-
-</td>
-</tr>
-</table>
+```
+✅ 40% reduction in integration setup time vs. manual config
+✅ Zero → full cross-system imaging traceability
+✅ LLM-powered FHIR + DICOM queries in natural language
+✅ Dockerized microservice architecture
+```
 
 ---
 
+<div align="center">
+
 ### 💧 AquaAlert AI — Community Health Monitoring
-> *FlowZint AI Hackathon 2026 | Open Innovation*
 
-<table>
-<tr>
-<td>
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
+[![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev)
+[![Claude API](https://img.shields.io/badge/Claude%20API-191919?style=flat-square&logo=anthropic&logoColor=white)](https://anthropic.com)
+[![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white)](https://twilio.com)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://postgresql.org)
 
-**What it does:** Conversational AI platform for water-borne disease surveillance — geo-tagged incident reporting, LLM-powered outbreak detection, and real-time SMS/WhatsApp alerts.
+</div>
 
-**Key highlights:**
-- 🌊 Community-scale health surveillance system
-- 📍 Geo-tagged crowdsourced symptom reporting
-- 📲 Twilio SMS/WhatsApp real-time alerts
-- 🗺️ Leaflet.js geo-analytics dashboard
+> 🌊 **FlowZint AI Hackathon 2026** — Open Innovation Category | Coimbatore Communities
 
-</td>
-<td>
+Conversational AI platform for water-borne disease surveillance — geo-tagged crowdsourced symptom reporting, LLM-powered outbreak detection, and Twilio SMS/WhatsApp real-time alerts.
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Claude API](https://img.shields.io/badge/Claude_API-191919?style=flat-square&logo=anthropic&logoColor=white)
-![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+```
+✅ Community-scale health surveillance system
+✅ Geo-tagged incident reporting via Leaflet.js
+✅ LLM pipeline for automated outbreak pattern detection
+✅ Twilio SMS + WhatsApp multi-channel alerts
+```
 
-</td>
-</tr>
-</table>
+---
 
-<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-<br/>
+---
 
 ## 💼 Work Experience
 
-<br/>
-
 <div align="center">
 
-| | Role | Organization | Period | Impact |
-|---|------|-------------|--------|--------|
-| 🤖 | **AI & ML Intern** | **Infosys** | Oct – Dec 2025 | U-Net image segmentation · **84% accuracy** · **3× throughput** |
-| 🔬 | **AI/ML Intern** (AICTE) | **IBM SkillsBuild × Edunet** | Jul – Aug 2025 | Predictive maintenance · **88%+ accuracy** · **−30% downtime** |
-| ⚙️ | **Software Dev Intern** | **HCL Technologies** | Dec 2024 – Jan 2025 | Spring Boot LMS · **10+ REST APIs** · **40% faster** retrieval |
+| | Role | Company | Period | Key Achievement |
+|:---:|:---|:---|:---:|:---|
+| 🤖 | **AI & ML Intern** | **Infosys** | Oct–Dec 2025 | U-Net segmentation · **84% accuracy** · **3× throughput** |
+| 🔬 | **AI/ML Intern** (AICTE) | **IBM SkillsBuild × Edunet** | Jul–Aug 2025 | Predictive maintenance · **88%+ accuracy** · **−30% downtime** |
+| ⚙️ | **Software Dev Intern** | **HCL Technologies** | Dec 2024–Jan 2025 | Spring Boot LMS · **10+ REST APIs** · **40% faster** retrieval |
 
 </div>
 
-<br/>
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<br/>
+---
 
-## 🏅 Certifications & Achievements
+## 🏅 Certifications
 
 <div align="center">
 
-[![AWS CCP](https://img.shields.io/badge/AWS_Certified_Cloud_Practitioner-Jun_2025-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/certification/)
-&nbsp;&nbsp;
-[![NPTEL](https://img.shields.io/badge/NPTEL_%7C_IIT_Madras-Privacy_%26_Security_%7C_Aug_2025-003366?style=for-the-badge&logoColor=white)](https://nptel.ac.in)
-&nbsp;&nbsp;
-[![IEEE](https://img.shields.io/badge/IEEE_Published-ICNGCS_2025-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://doi.org/10.1109/ICNGCS64900.2025.11183418)
+[![AWS](https://img.shields.io/badge/AWS%20Certified%20Cloud%20Practitioner-Jun%202025-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/certification/)
+&nbsp;
+[![NPTEL](https://img.shields.io/badge/NPTEL%20%7C%20IIT%20Madras-Privacy%20%26%20Security-003366?style=for-the-badge&logoColor=white)](https://nptel.ac.in)
+&nbsp;
+[![IEEE](https://img.shields.io/badge/IEEE%20ICNGCS%202025-Published-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://doi.org/10.1109/ICNGCS64900.2025.11183418)
 
 </div>
 
-<br/>
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<br/>
+---
 
-## 📊 GitHub Activity
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=tarunjayant&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4f8ef7&icon_color=4f8ef7&text_color=a8b2d8&ring_color=4f8ef7" height="170"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarunjayant&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4f8ef7&text_color=a8b2d8&langs_count=8" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=tarunjayant&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E&border_radius=10" height="170"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarunjayant&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&border_radius=10&langs_count=8" height="170"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=tarunjayant&theme=tokyonight&hide_border=true&background=0d1117&stroke=4f8ef7&ring=4f8ef7&fire=ff6b6b&currStreakLabel=4f8ef7&sideLabels=a8b2d8&dates=a8b2d8&sideNums=ffffff&currStreakNum=ffffff" height="170"/>
+<img src="https://streak-stats.demolab.com?user=tarunjayant&theme=tokyonight-duo&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E&sideNums=ffffff&currStreakNum=ffffff&border_radius=10" height="170"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tarunjayant&bg_color=0d1117&color=4f8ef7&line=4f8ef7&point=ffffff&area=true&area_color=0f1e3c&hide_border=true&custom_title=Contribution%20Graph" width="96%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tarunjayant&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=1f3a5f&hide_border=true&border_radius=10&custom_title=Tarun's%20Contribution%20Graph" width="95%"/>
 
 </div>
 
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-<br/>
+---
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=tarunjayant&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=tarunjayant&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
-<br/>
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<br/>
+---
 
-<!-- SNAKE ANIMATION -->
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -322,15 +296,15 @@ const tarun = {
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tarunjayant/tarunjayant/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tarunjayant/tarunjayant/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tarunjayant/tarunjayant/output/github-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/tarunjayant/tarunjayant/output/github-snake-dark.svg" />
 </picture>
 
 </div>
 
-<br/>
+---
 
-<!-- FOOTER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f8ef7,50:1a1a6e,100:0a0a0f&height=140&section=footer&animation=fadeIn&fontColor=ffffff&fontSize=18" />
+<!-- FOOTER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=130&section=footer&animation=fadeIn" />
 
 <div align="center">
 
@@ -338,8 +312,8 @@ const tarun = {
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=tarunjayant&color=4f8ef7&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=tarunjayant&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
 &nbsp;
-![Visitors](https://img.shields.io/badge/Thanks_for_visiting!-4f8ef7?style=for-the-badge&logoColor=white)
+![Thanks](https://img.shields.io/badge/Thanks%20for%20visiting!-%2358A6FF?style=for-the-badge)
 
 </div>
