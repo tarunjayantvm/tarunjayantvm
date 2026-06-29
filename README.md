@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&pause=1000&color=00E7FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Tarun+Jayant+V.M;AI+Engineer;Full+Stack+Developer;Building+Production+Ready+AI+Applications;Multi-Agent+Systems+Developer;FastAPI+%7C+React+%7C+Python+Developer;Always+Learning+Something+New+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&pause=1000&color=00E7FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Tarun+Jayant+V+M;AI+Engineer;Full+Stack+Developer;Building+Production+Ready+AI+Applications;Multi-Agent+Systems+Developer;FastAPI+%7C+React+%7C+Python+Developer;Always+Learning+Something+New+🚀)](https://git.io/typing-svg)
 
 </div>
 
@@ -47,7 +47,7 @@ class TarunJayant:
 
         self.name = "Tarun Jayant V.M"
 
-        self.role = "AI Engineer"
+        self.role = "AI & Software Engineer"
 
         self.education = "B.E Computer Science and Engineering"
 
@@ -67,8 +67,6 @@ class TarunJayant:
 
             "Cloud Computing",
 
-            "Medical AI",
-
             "Computer Vision"
 
         ]
@@ -80,6 +78,8 @@ class TarunJayant:
             "FastAPI",
 
             "React",
+
+            "RAG",
 
             "MCP Servers",
 
@@ -114,13 +114,9 @@ me = TarunJayant()
 
 - Multi-Agent Systems
 
-- AI Resume Builder
-
-- Medical AI
+- Medical AI Systems
 
 - MCP Servers
-
-- AI Interviewer
 
 - RAG Applications
 
@@ -133,8 +129,6 @@ me = TarunJayant()
 - React
 
 - FastAPI
-
-- PostgreSQL
 
 - Docker
 
@@ -161,8 +155,6 @@ me = TarunJayant()
 ✔️ AI + Full Stack Combination
 
 ✔️ FastAPI Backend Specialist
-
-✔️ React Frontend Developer
 
 ✔️ Production AI Agent Development
 
