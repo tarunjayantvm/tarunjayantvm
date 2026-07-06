@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&pause=1000&color=00E7FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Tarun+Jayant+V.M;AI+Engineer;Full+Stack+Developer;Building+Production+Ready+AI+Applications;Multi-Agent+Systems+Developer;FastAPI+%7C+React+%7C+Python+Developer;Always+Learning+Something+New+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&pause=1000&color=00E7FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Tarun+Jayant+V&M;AI+Engineer;Full+Stack+Developer;Building+Production+Ready+AI+Applications;Multi-Agent+Systems+Developer;FastAPI+%7C+React+%7C+Python+Developer;Always+Learning+Something+New+🚀)](https://git.io/typing-svg)
 
 </div>
 
@@ -67,8 +67,6 @@ class TarunJayant:
 
             "Cloud Computing",
 
-            "Medical AI",
-
             "Computer Vision"
 
         ]
@@ -78,8 +76,6 @@ class TarunJayant:
             "Building Production AI Systems",
 
             "FastAPI",
-
-            "React",
 
             "MCP Servers",
 
