@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0f2027,25:203a43,50:2c5364,75:00C9FF,100:92FE9D&text=Tarun%20Jayant%20V%10M&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Problem%20Solver&descAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0f2027,25:203a43,50:2c5364,75:00C9FF,100:92FE9D&text=Tarun%20Jayant%20V.M&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Problem%20Solver&descAlignY=60"/>
 
 </div>
 
@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&pause=1000&color=00E7FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Tarun+Jayant+V+M;AI+Engineer;Full+Stack+Developer;Building+Production+Ready+AI+Applications;Multi-Agent+Systems+Developer;FastAPI+%7C+React+%7C+Python+Developer;Always+Learning+Something+New+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&pause=1000&color=00E7FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Tarun+Jayant+V.M;AI+Engineer;Full+Stack+Developer;Building+Production+Ready+AI+Applications;Multi-Agent+Systems+Developer;FastAPI+%7C+React+%7C+Python+Developer;Always+Learning+Something+New+🚀)](https://git.io/typing-svg)
 
 </div>
 
@@ -47,7 +47,7 @@ class TarunJayant:
 
         self.name = "Tarun Jayant V.M"
 
-        self.role = "AI & Software Engineer"
+        self.role = "AI Engineer"
 
         self.education = "B.E Computer Science and Engineering"
 
@@ -67,6 +67,8 @@ class TarunJayant:
 
             "Cloud Computing",
 
+            "Medical AI",
+
             "Computer Vision"
 
         ]
@@ -78,8 +80,6 @@ class TarunJayant:
             "FastAPI",
 
             "React",
-
-            "RAG",
 
             "MCP Servers",
 
@@ -114,9 +114,13 @@ me = TarunJayant()
 
 - Multi-Agent Systems
 
-- Medical AI Systems
+- AI Resume Builder
+
+- Medical AI
 
 - MCP Servers
+
+- AI Interviewer
 
 - RAG Applications
 
@@ -129,6 +133,8 @@ me = TarunJayant()
 - React
 
 - FastAPI
+
+- PostgreSQL
 
 - Docker
 
@@ -155,6 +161,8 @@ me = TarunJayant()
 ✔️ AI + Full Stack Combination
 
 ✔️ FastAPI Backend Specialist
+
+✔️ React Frontend Developer
 
 ✔️ Production AI Agent Development
 
