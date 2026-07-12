@@ -23,7 +23,6 @@
 🚀 &nbsp;Building **AI-powered applications** using **LLMs, RAG, Agentic AI, FastAPI & Streamlit**
 💻 &nbsp;Passionate about scalable backend systems, intelligent software, and impactful AI solutions
 📄 &nbsp;Published IEEE researcher — **HealthScribe** (ICNGCS 2025)
-🎓 &nbsp;4th-year CSE student, actively interviewing for SDE / AI-ML roles
 
 <br/>
 
