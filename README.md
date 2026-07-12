@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F260,100:0575E6&height=220&section=header&text=Tarun%20Jayant%20V%20M&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3500&pause=1000&color=00F260&center=true&vCenter=true&width=900&lines=Software+Developer;AI%2FML+Engineer;Generative+AI+Enthusiast;Agentic+AI+Developer;Full+Stack+Developer;Java+Developer;Python+Developer;Open+Source+Contributor;Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3500&pause=1000&color=00F260&center=true&vCenter=true&width=900&lines=Software+Developer;AI%2FML+Engineer;Generative+AI+Enthusiast;Agentic+AI+Developer;Full+Stack+Developer;Java+Developer;Learning+New+Technologies"/>
 
 <img src="https://komarev.com/ghpvc/?username=tarunjayantvm&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
@@ -42,8 +42,6 @@
 
 - Production-scale AI Systems
 - Cloud Architecture
-- Kubernetes
-- Advanced Backend Engineering
 
 💬 **Ask Me About**
 
@@ -86,17 +84,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,html,css,spring,fastapi,react,nodejs,mysql,mongodb,docker,git,github,aws,linux,postman,vscode,tensorflow,pytorch&perline=7"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=tarunjayantvm&theme=matrix&no-frame=true&column=4&margin-w=15&margin-h=15)
+<img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,html,css,spring,fastapi,react,nodejs,mysql,mongodb,docker,git,github,aws,postman,vscode,tensorflow,pytorch&perline=7"/>
 
 </p>
 
@@ -123,12 +111,6 @@
 # 📈 Contribution Graph
 
 [![Tarun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tarunjayantvm&theme=github-compact)](https://github.com/tarunjayantvm)
-
----
-
-# 🔝 Top Contributed Repositories
-
-![](https://github-contributor-stats.vercel.app/api?username=tarunjayantvm&limit=5&theme=merko&combine_all_yearly_contributions=true)
 
 ---
 
