@@ -69,21 +69,10 @@
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=tarunjayantvm&show_icons=true&theme=merko&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarunjayantvm&layout=compact&theme=merko&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=tarunjayantvm&theme=merko&hide_border=true"/>
-
-</p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=tarunjayantvm&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=tarunjayantvm&theme=highcontrast&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=tarunjayantvm&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
 
