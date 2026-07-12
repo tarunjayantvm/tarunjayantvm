@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F260,100:0575E6&height=220&section=header&text=Tarun%20Jayant%20V%20M&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3500&pause=1000&color=00F260&center=true&vCenter=true&width=900&lines=Software+Developer;AI%2FML+Engineer;Generative+AI+Enthusiast;Agentic+AI+Developer;Full+Stack+Developer;Java+Developer;Python+Developer;Open+Source+Contributor;Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3500&pause=1000&color=00F260&center=true&vCenter=true&width=900&lines=Software+Developer;AI%2FML+Engineer;Generative+AI+Enthusiast;Agentic+AI+Developer;Full+Stack+Developer;Java+Developer;Learning+New+Technologies"/>
 
 <img src="https://komarev.com/ghpvc/?username=tarunjayantvm&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
@@ -16,51 +16,28 @@
 
 </div>
 
-# 💫 About Me
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
-🚀 Building **AI-powered applications** using **LLMs, RAG, Agentic AI, FastAPI and Streamlit**
+<table>
+<tr>
+<td>
 
-💻 Passionate about creating scalable backend systems, intelligent software and impactful AI solutions.
+🚀 **Building:** AI-powered applications using **LLMs, RAG, Agentic AI, FastAPI & Streamlit**
 
-🌱 **Currently Learning**
+🌱 **Learning:** Agentic AI • Multi-Agent Systems • System Design • Docker • AWS • Distributed Systems
 
-- Agentic AI
-- Multi-Agent Systems
-- System Design
-- Docker
-- Cloud Computing (AWS)
-- Distributed Systems
+🤝 **Collaborating:** Open Source • AI • Machine Learning • Full Stack Development
 
-👯 **Looking to Collaborate On**
+💬 **Ask Me About:** Java • Python • Spring Boot • FastAPI • REST APIs • Machine Learning • Generative AI • DSA
 
-- Open Source Projects
-- Artificial Intelligence
-- Machine Learning
-- Full Stack Development
+🎯 **Seeking Help:** Production-scale AI Systems & Cloud Architecture
 
-🤝 **Looking for Help With**
+⚡ **Fun Fact:** *I love transforming real-world problems into intelligent software solutions.*
 
-- Production-scale AI Systems
-- Cloud Architecture
-- Kubernetes
-- Advanced Backend Engineering
+</td>
+</tr>
+</table>
 
-💬 **Ask Me About**
-
-- Java
-- Python
-- Spring Boot
-- FastAPI
-- REST APIs
-- Machine Learning
-- Generative AI
-- Data Structures & Algorithms
-
-⚡ **Fun Fact**
-
-> I love transforming real-world problems into intelligent software solutions.
-
----
 
 # 🌐 Connect With Me
 
@@ -92,16 +69,6 @@
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=tarunjayantvm&theme=matrix&no-frame=true&column=4&margin-w=15&margin-h=15)
-
-</p>
-
----
-
 # 📊 GitHub Stats
 
 <p align="center">
@@ -126,17 +93,6 @@
 
 ---
 
-# 🔝 Top Contributed Repositories
-
-![](https://github-contributor-stats.vercel.app/api?username=tarunjayantvm&limit=5&theme=merko&combine_all_yearly_contributions=true)
-
----
-
-# ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
----
 
 # 🐍 Contribution Snake
 
