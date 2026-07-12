@@ -23,6 +23,7 @@
 🚀 &nbsp;Building **AI-powered applications** using **LLMs, RAG, Agentic AI, FastAPI & Streamlit**
 💻 &nbsp;Passionate about scalable backend systems, intelligent software, and impactful AI solutions
 📄 &nbsp;Published IEEE researcher — **HealthScribe** (ICNGCS 2025)
+🎓 &nbsp;4th-year CSE student, actively interviewing for SDE / AI-ML roles
 
 <br/>
 
@@ -45,7 +46,7 @@
 </td>
 <td width="40%" align="center">
 
-<img width="100%" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif"/>
 
 </td>
 </tr>
@@ -96,6 +97,14 @@
 
 ---
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=tarunjayantvm&theme=algolia&no-frame=true&column=4&margin-w=15&margin-h=15&row=2"/>
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -119,6 +128,14 @@
 <a href="https://github.com/tarunjayantvm">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=tarunjayantvm&theme=react-dark&hide_border=true&area=true"/>
 </a>
+</p>
+
+---
+
+## 🔝 Top Contributed Repositories
+
+<p align="center">
+<img src="https://github-contributor-stats.vercel.app/api?username=tarunjayantvm&limit=5&theme=synthwave&combine_all_yearly_contributions=true"/>
 </p>
 
 ---
