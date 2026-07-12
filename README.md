@@ -1,141 +1,149 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F260,100:0575E6&height=220&section=header&text=Tarun%20Jayant%20V%20M&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF512F,35:8B5CF6,70:00F260,100:0575E6&height=280&section=header&text=Tarun%20Jayant%20V%20M&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Software%20Developer%20%7C%20AI%2FML%20Engineer&descAlignY=52&descSize=18"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3500&pause=1000&color=00F260&center=true&vCenter=true&width=900&lines=Software+Developer;AI%2FML+Engineer;Generative+AI+Enthusiast;Agentic+AI+Developer;Full+Stack+Developer;Java+Developer;Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=24&duration=3000&pause=900&color=00F260&center=true&vCenter=true&width=800&height=40&lines=Software+Developer;AI%2FML+Engineer;Generative+AI+Enthusiast;Agentic+AI+Developer;Full+Stack+Developer;Java+Developer;Always+Learning+New+Technologies"/>
+
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=tarunjayantvm&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Open%20to-SDE%20Roles-00F260?style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/tarunjayantvm?style=for-the-badge&color=0575E6&label=Followers"/>
 
 </div>
 
----
+<br/>
 
-<div align="center">
+## 💫 About Me
 
-<img width="450" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+<table>
+<tr>
+<td width="60%" valign="top">
 
-</div>
+🚀 &nbsp;Building **AI-powered applications** using **LLMs, RAG, Agentic AI, FastAPI & Streamlit**
+💻 &nbsp;Passionate about scalable backend systems, intelligent software, and impactful AI solutions
+📄 &nbsp;Published IEEE researcher — **HealthScribe** (ICNGCS 2025)
+🎓 &nbsp;4th-year CSE student, actively interviewing for SDE / AI-ML roles
 
-# 💫 About Me
+<br/>
 
-🚀 Building **AI-powered applications** using **LLMs, RAG, Agentic AI, FastAPI and Streamlit**
+**🌱 Currently Exploring**
+> Agentic AI · Multi-Agent Systems · System Design · Docker · AWS · Distributed Systems
 
-💻 Passionate about creating scalable backend systems, intelligent software and impactful AI solutions.
+**👯 Open to Collaborate On**
+> Open Source · Artificial Intelligence · Machine Learning · Full Stack Development
 
-🌱 **Currently Learning**
+**🤝 Looking for Help With**
+> Production-scale AI Systems · Cloud Architecture
 
-- Agentic AI
-- Multi-Agent Systems
-- System Design
-- Docker
-- Cloud Computing (AWS)
-- Distributed Systems
+**💬 Ask Me About**
+> Java · Python · Spring Boot · FastAPI · REST APIs · Machine Learning · Generative AI · DSA
 
-👯 **Looking to Collaborate On**
+<br/>
 
-- Open Source Projects
-- Artificial Intelligence
-- Machine Learning
-- Full Stack Development
+> *"Code. Learn. Build. Repeat."* 🚀 — I love turning real-world problems into intelligent software.
 
-🤝 **Looking for Help With**
+</td>
+<td width="40%" align="center">
 
-- Production-scale AI Systems
-- Cloud Architecture
+<img width="100%" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
-💬 **Ask Me About**
-
-- Java
-- Python
-- Spring Boot
-- FastAPI
-- REST APIs
-- Machine Learning
-- Generative AI
-- Data Structures & Algorithms
-
-⚡ **Fun Fact**
-
-> I love transforming real-world problems into intelligent software solutions.
+</td>
+</tr>
+</table>
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
-
 <a href="https://linkedin.com/in/tarun-jayant-v-m-49a691292">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="mailto:tarunjayantvm@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 <a href="https://github.com/tarunjayantvm">
-<img src="https://skillicons.dev/icons?i=github"/>
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
+<a href="https://leetcode.com/u/Tarunjayantvm/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
 </p>
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
+<p align="center"><b>Languages</b></p>
 <p align="center">
+<img src="https://skillicons.dev/icons?i=java,python,cpp,c,js"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,html,css,spring,fastapi,react,nodejs,mysql,mongodb,docker,git,github,aws,linux,postman,vscode,tensorflow,pytorch&perline=7"/>
+<p align="center"><b>Frameworks & Web</b></p>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=spring,fastapi,react,nodejs,html,css"/>
+</p>
 
+<p align="center"><b>Databases & DevOps</b></p>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,docker,git,github,aws,linux"/>
+</p>
+
+<p align="center"><b>AI / ML & Tools</b></p>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,postman,vscode"/>
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=tarunjayantvm&theme=matrix&no-frame=true&column=4&margin-w=15&margin-h=15)
-
+<img src="https://github-profile-trophy.vercel.app/?username=tarunjayantvm&theme=algolia&no-frame=true&column=4&margin-w=15&margin-h=15&row=2"/>
 </p>
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=tarunjayantvm&show_icons=true&theme=merko&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarunjayantvm&layout=compact&theme=merko&hide_border=true"/>
-
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=tarunjayantvm&show_icons=true&theme=synthwave&hide_border=true&count_private=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarunjayantvm&layout=compact&theme=synthwave&hide_border=true"/>
 </p>
 
 <p align="center">
+<img src="https://streak-stats.demolab.com?user=tarunjayantvm&theme=synthwave&hide_border=true"/>
+</p>
 
-<img src="https://streak-stats.demolab.com?user=tarunjayantvm&theme=merko&hide_border=true"/>
-
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=tarunjayantvm&theme=synthwave&hide_border=true&layout=compact"/>
 </p>
 
 ---
 
-# 📈 Contribution Graph
-
-[![Tarun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tarunjayantvm&theme=github-compact)](https://github.com/tarunjayantvm)
-
----
-
-# 🔝 Top Contributed Repositories
-
-![](https://github-contributor-stats.vercel.app/api?username=tarunjayantvm&limit=5&theme=merko&combine_all_yearly_contributions=true)
-
----
-
-# 🐍 Contribution Snake
+## 📈 Contribution Graph
 
 <p align="center">
+<a href="https://github.com/tarunjayantvm">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tarunjayantvm&theme=react-dark&hide_border=true&area=true"/>
+</a>
+</p>
 
+---
+
+## 🔝 Top Contributed Repositories
+
+<p align="center">
+<img src="https://github-contributor-stats.vercel.app/api?username=tarunjayantvm&limit=5&theme=synthwave&combine_all_yearly_contributions=true"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
 <img src="https://raw.githubusercontent.com/tarunjayantvm/tarunjayantvm/output/github-contribution-grid-snake-dark.svg"/>
-
 </p>
 
 ---
@@ -144,8 +152,6 @@
 
 ### ⭐ Thanks for visiting my profile!
 
-*"Code. Learn. Build. Repeat."* 🚀
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0575E6,50:8B5CF6,100:00F260&height=150&section=footer"/>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0575E6,100:00F260&height=120&section=footer"/>
