@@ -18,27 +18,56 @@
 
 ## 💫 About Me
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
+<details open>
+<summary>🚀 Currently Building</summary>
 
-<table>
-<tr>
-<td>
+AI-powered applications using **LLMs, RAG, Agentic AI, FastAPI and Streamlit**
 
-🚀 **Building:** AI-powered applications using **LLMs, RAG, Agentic AI, FastAPI & Streamlit**
+</details>
 
-🌱 **Learning:** Agentic AI • Multi-Agent Systems • System Design • Docker • AWS • Distributed Systems
+<details>
+<summary>🌱 Currently Learning</summary>
 
-🤝 **Collaborating:** Open Source • AI • Machine Learning • Full Stack Development
+- Agentic AI
+- Multi-Agent Systems
+- Docker
+- AWS
+- Distributed Systems
+- System Design
 
-💬 **Ask Me About:** Java • Python • Spring Boot • FastAPI • REST APIs • Machine Learning • Generative AI • DSA
+</details>
 
-🎯 **Seeking Help:** Production-scale AI Systems & Cloud Architecture
+<details>
+<summary>🤝 Looking to Collaborate</summary>
 
-⚡ **Fun Fact:** *I love transforming real-world problems into intelligent software solutions.*
+- Open Source
+- Artificial Intelligence
+- Machine Learning
+- Full Stack Development
 
-</td>
-</tr>
-</table>
+</details>
+
+<details>
+<summary>💬 Ask Me About</summary>
+
+Java • Python • Spring Boot • FastAPI • REST APIs • Machine Learning • Generative AI • DSA
+
+</details>
+
+<details>
+<summary>🎯 Looking for Help</summary>
+
+Production-scale AI Systems & Cloud Architecture
+
+</details>
+
+<details>
+<summary>⚡ Fun Fact</summary>
+
+I love transforming real-world problems into intelligent software solutions.
+
+</details>
+
 
 # 🌐 Connect With Me
 
