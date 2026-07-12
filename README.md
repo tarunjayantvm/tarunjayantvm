@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F260,100:0575E6&height=220&section=header&text=Tarun%20Jayant%20V%20M&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3500&pause=1000&color=00F260&center=true&vCenter=true&width=900&lines=Software+Developer;AI%2FML+Engineer;Generative+AI+Enthusiast;Agentic+AI+Developer;Full+Stack+Developer;Java+Developer;Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3500&pause=1000&color=00F260&center=true&vCenter=true&width=900&lines=Software+Developer;AI%2FML+Engineer;Generative+AI+Enthusiast;Agentic+AI+Developer;Full+Stack+Developer;Java+Developer;Python+Developer;Open+Source+Contributor;Always+Learning+New+Technologies"/>
 
 <img src="https://komarev.com/ghpvc/?username=tarunjayantvm&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
@@ -12,37 +12,55 @@
 
 <div align="center">
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
+<img width="450" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
 </div>
 
-<table>
-<tr>
-<td width="60%" valign="top">
-<table>
-<tr><td width="180"><b>🚀 Building</b></td><td>AI-powered applications using <b>LLMs, RAG, Agentic AI, FastAPI & Streamlit</b></td></tr>
-<tr><td><b>🌱 Learning</b></td><td>Agentic AI • Multi-Agent Systems • System Design • Docker • AWS • Distributed Systems</td></tr>
-<tr><td><b>🤝 Collaborating</b></td><td>Open Source • Artificial Intelligence • Machine Learning • Full Stack Development</td></tr>
-<tr><td><b>💬 Ask Me About</b></td><td>Java • Python • Spring Boot • FastAPI • REST APIs • Machine Learning • Generative AI • DSA</td></tr>
-<tr><td><b>🎯 Looking for Help</b></td><td>Production-scale AI Systems • Cloud Architecture</td></tr>
-<tr><td><b>⚡ Fun Fact</b></td><td><i>I love transforming real-world problems into intelligent software solutions.</i></td></tr>
-</table>
-📄  Published IEEE researcher — HealthScribe (ICNGCS 2025)
-🎓  4th-year CSE student, actively interviewing for SDE / AI-ML roles
+# 💫 About Me
 
-<br/>
+🚀 Building **AI-powered applications** using **LLMs, RAG, Agentic AI, FastAPI and Streamlit**
 
-💻 Passionate about creating scalable backend systems, intelligent software, and impactful AI solutions.
+💻 Passionate about creating scalable backend systems, intelligent software and impactful AI solutions.
 
+🌱 **Currently Learning**
 
+- Agentic AI
+- Multi-Agent Systems
+- System Design
+- Docker
+- Cloud Computing (AWS)
+- Distributed Systems
 
-</td>
-<td width="40%" align="center">
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif"/>
-</td>
-</tr>
-</table>
+👯 **Looking to Collaborate On**
 
+- Open Source Projects
+- Artificial Intelligence
+- Machine Learning
+- Full Stack Development
+
+🤝 **Looking for Help With**
+
+- Production-scale AI Systems
+- Cloud Architecture
+- Kubernetes
+- Advanced Backend Engineering
+
+💬 **Ask Me About**
+
+- Java
+- Python
+- Spring Boot
+- FastAPI
+- REST APIs
+- Machine Learning
+- Generative AI
+- Data Structures & Algorithms
+
+⚡ **Fun Fact**
+
+> I love transforming real-world problems into intelligent software solutions.
+
+---
 
 # 🌐 Connect With Me
 
@@ -68,7 +86,17 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,html,css,spring,fastapi,react,nodejs,mysql,mongodb,docker,git,github,aws,postman,vscode,tensorflow,pytorch&perline=7"/>
+<img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,html,css,spring,fastapi,react,nodejs,mysql,mongodb,docker,git,github,aws,linux,postman,vscode,tensorflow,pytorch&perline=7"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=tarunjayantvm&theme=matrix&no-frame=true&column=4&margin-w=15&margin-h=15)
 
 </p>
 
@@ -95,6 +123,18 @@
 # 📈 Contribution Graph
 
 [![Tarun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tarunjayantvm&theme=github-compact)](https://github.com/tarunjayantvm)
+
+---
+
+# 🔝 Top Contributed Repositories
+
+![](https://github-contributor-stats.vercel.app/api?username=tarunjayantvm&limit=5&theme=merko&combine_all_yearly_contributions=true)
+
+---
+
+# ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ---
 
