@@ -97,14 +97,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=tarunjayantvm&theme=algolia&no-frame=true&column=4&margin-w=15&margin-h=15&row=2"/>
-</p>
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -128,14 +120,6 @@
 <a href="https://github.com/tarunjayantvm">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=tarunjayantvm&theme=react-dark&hide_border=true&area=true"/>
 </a>
-</p>
-
----
-
-## 🔝 Top Contributed Repositories
-
-<p align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=tarunjayantvm&limit=5&theme=synthwave&combine_all_yearly_contributions=true"/>
 </p>
 
 ---
