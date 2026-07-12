@@ -74,6 +74,8 @@
 ![](https://streak-stats.demolab.com/?user=tarunjayantvm&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=tarunjayantvm&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+---
+
 # 📈 Contribution Graph
 
 [![Tarun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tarunjayantvm&theme=github-compact)](https://github.com/tarunjayantvm)
