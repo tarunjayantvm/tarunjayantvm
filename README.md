@@ -18,55 +18,24 @@
 
 ## 💫 About Me
 
-<details open>
-<summary>🚀 Currently Building</summary>
+🏗️ **Building**
 
-AI-powered applications using **LLMs, RAG, Agentic AI, FastAPI and Streamlit**
+![](https://img.shields.io/badge/LLMs-blue?style=for-the-badge)
+![](https://img.shields.io/badge/RAG-success?style=for-the-badge)
+![](https://img.shields.io/badge/Agentic_AI-orange?style=for-the-badge)
+![](https://img.shields.io/badge/FastAPI-green?style=for-the-badge)
+![](https://img.shields.io/badge/Streamlit-red?style=for-the-badge)
 
-</details>
+🌱 **Learning**
 
-<details>
-<summary>🌱 Currently Learning</summary>
+![](https://img.shields.io/badge/System_Design-purple?style=flat-square)
+![](https://img.shields.io/badge/Docker-blue?style=flat-square)
+![](https://img.shields.io/badge/AWS-orange?style=flat-square)
+![](https://img.shields.io/badge/Multi--Agent_AI-red?style=flat-square)
 
-- Agentic AI
-- Multi-Agent Systems
-- Docker
-- AWS
-- Distributed Systems
-- System Design
+💬 **Ask Me About**
 
-</details>
-
-<details>
-<summary>🤝 Looking to Collaborate</summary>
-
-- Open Source
-- Artificial Intelligence
-- Machine Learning
-- Full Stack Development
-
-</details>
-
-<details>
-<summary>💬 Ask Me About</summary>
-
-Java • Python • Spring Boot • FastAPI • REST APIs • Machine Learning • Generative AI • DSA
-
-</details>
-
-<details>
-<summary>🎯 Looking for Help</summary>
-
-Production-scale AI Systems & Cloud Architecture
-
-</details>
-
-<details>
-<summary>⚡ Fun Fact</summary>
-
-I love transforming real-world problems into intelligent software solutions.
-
-</details>
+Java • Python • Spring Boot • FastAPI • REST APIs • ML • GenAI • DSA
 
 
 # 🌐 Connect With Me
