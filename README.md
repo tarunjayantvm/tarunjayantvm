@@ -12,21 +12,37 @@
 
 <div align="center">
 
-<img width="450" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
 </div>
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
+<table>
+<tr>
+<td width="60%" valign="top">
+<table>
+<tr><td width="180"><b>🚀 Building</b></td><td>AI-powered applications using <b>LLMs, RAG, Agentic AI, FastAPI & Streamlit</b></td></tr>
+<tr><td><b>🌱 Learning</b></td><td>Agentic AI • Multi-Agent Systems • System Design • Docker • AWS • Distributed Systems</td></tr>
+<tr><td><b>🤝 Collaborating</b></td><td>Open Source • Artificial Intelligence • Machine Learning • Full Stack Development</td></tr>
+<tr><td><b>💬 Ask Me About</b></td><td>Java • Python • Spring Boot • FastAPI • REST APIs • Machine Learning • Generative AI • DSA</td></tr>
+<tr><td><b>🎯 Looking for Help</b></td><td>Production-scale AI Systems • Cloud Architecture</td></tr>
+<tr><td><b>⚡ Fun Fact</b></td><td><i>I love transforming real-world problems into intelligent software solutions.</i></td></tr>
+</table>
+📄  Published IEEE researcher — HealthScribe (ICNGCS 2025)
+🎓  4th-year CSE student, actively interviewing for SDE / AI-ML roles
 
-| 🚀 Building | AI-powered applications using **LLMs, RAG, Agentic AI, FastAPI & Streamlit** |
-|------------|-------------------------------------------------------------------------------|
-| 🌱 Learning | Agentic AI • Multi-Agent Systems • System Design • Docker • AWS • Distributed Systems |
-| 🤝 Collaborating | Open Source • Artificial Intelligence • Machine Learning • Full Stack Development |
-| 💬 Ask Me About | Java • Python • Spring Boot • FastAPI • REST APIs • Machine Learning • Generative AI • DSA |
-| 🎯 Looking for Help | Production-scale AI Systems • Cloud Architecture |
-| ⚡ Fun Fact | *I love transforming real-world problems into intelligent software solutions.* |
+<br/>
 
-> 💻 **Passionate about creating scalable backend systems, intelligent software, and impactful AI solutions.**
+💻 Passionate about creating scalable backend systems, intelligent software, and impactful AI solutions.
+
+
+
+</td>
+<td width="40%" align="center">
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif"/>
+</td>
+</tr>
+</table>
+
 
 # 🌐 Connect With Me
 
