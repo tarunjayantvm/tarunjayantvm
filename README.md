@@ -16,27 +16,17 @@
 
 </div>
 
-## 💫 About Me
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
-🏗️ **Building**
+| 🚀 Building | AI-powered applications using **LLMs, RAG, Agentic AI, FastAPI & Streamlit** |
+|------------|-------------------------------------------------------------------------------|
+| 🌱 Learning | Agentic AI • Multi-Agent Systems • System Design • Docker • AWS • Distributed Systems |
+| 🤝 Collaborating | Open Source • Artificial Intelligence • Machine Learning • Full Stack Development |
+| 💬 Ask Me About | Java • Python • Spring Boot • FastAPI • REST APIs • Machine Learning • Generative AI • DSA |
+| 🎯 Looking for Help | Production-scale AI Systems • Cloud Architecture |
+| ⚡ Fun Fact | *I love transforming real-world problems into intelligent software solutions.* |
 
-![](https://img.shields.io/badge/LLMs-blue?style=for-the-badge)
-![](https://img.shields.io/badge/RAG-success?style=for-the-badge)
-![](https://img.shields.io/badge/Agentic_AI-orange?style=for-the-badge)
-![](https://img.shields.io/badge/FastAPI-green?style=for-the-badge)
-![](https://img.shields.io/badge/Streamlit-red?style=for-the-badge)
-
-🌱 **Learning**
-
-![](https://img.shields.io/badge/System_Design-purple?style=flat-square)
-![](https://img.shields.io/badge/Docker-blue?style=flat-square)
-![](https://img.shields.io/badge/AWS-orange?style=flat-square)
-![](https://img.shields.io/badge/Multi--Agent_AI-red?style=flat-square)
-
-💬 **Ask Me About**
-
-Java • Python • Spring Boot • FastAPI • REST APIs • ML • GenAI • DSA
-
+> 💻 **Passionate about creating scalable backend systems, intelligent software, and impactful AI solutions.**
 
 # 🌐 Connect With Me
 
