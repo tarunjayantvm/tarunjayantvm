@@ -18,49 +18,15 @@
 
 ## 💫 About Me
 
-<table>
-<tr>
-<td width="50%">
+| 🚀 Building | AI-powered applications using **LLMs, RAG, Agentic AI, FastAPI & Streamlit** |
+|------------|-------------------------------------------------------------------------------|
+| 🌱 Learning | Agentic AI • Multi-Agent Systems • System Design • Docker • AWS • Distributed Systems |
+| 🤝 Collaborating | Open Source • Artificial Intelligence • Machine Learning • Full Stack Development |
+| 💬 Ask Me About | Java • Python • Spring Boot • FastAPI • REST APIs • Machine Learning • Generative AI • DSA |
+| 🎯 Looking for Help | Production-scale AI Systems • Cloud Architecture |
+| ⚡ Fun Fact | *I love transforming real-world problems into intelligent software solutions.* |
 
-🚀 **Currently Building**  
-AI-powered applications using **LLMs, RAG, Agentic AI, FastAPI, and Streamlit**.
-
-🌱 **Currently Learning**  
-• Agentic AI  
-• Multi-Agent Systems  
-• System Design  
-• Docker  
-• Cloud Computing (AWS)  
-• Distributed Systems
-
-</td>
-
-<td width="50%">
-
-🤝 **Looking to Collaborate On**  
-• Open Source Projects  
-• Artificial Intelligence  
-• Machine Learning  
-• Full Stack Development
-
-💬 **Ask Me About**  
-Java • Python • Spring Boot • FastAPI • REST APIs • Machine Learning • Generative AI • DSA
-
-</td>
-</tr>
-</table>
-
-### ⚡ What Drives Me
-
-> 💻 Passionate about creating scalable backend systems, intelligent software, and impactful AI solutions.
-
-### 🎯 Looking for Help With
-
-> Production-scale AI Systems & Cloud Architecture.
-
-### ✨ Fun Fact
-
-> I love transforming real-world problems into intelligent software solutions.
+> 💻 **Passionate about creating scalable backend systems, intelligent software, and impactful AI solutions.**
 
 # 🌐 Connect With Me
 
