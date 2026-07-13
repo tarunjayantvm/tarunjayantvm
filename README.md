@@ -27,8 +27,6 @@
 
 - 📫 How to reach me **tarunjayantvm@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/tarun-jayant-v-m-49a691292/](https://www.linkedin.com/in/tarun-jayant-v-m-49a691292/)
-
 - ⚡ Fun fact **I enjoy turning real-world problems into intelligent AI-powered software solutions and continuously learning new technologies.**
 
 ---
