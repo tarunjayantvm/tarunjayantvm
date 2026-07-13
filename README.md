@@ -1,20 +1,40 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F260,100:0575E6&height=220&section=header&text=Tarun%20Jayant%20V%20M&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20,24,30&height=8"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3500&pause=1000&color=00F260&center=true&vCenter=true&width=900&lines=Software+Developer;AI%2FML+Engineer;Generative+AI+Enthusiast;Agentic+AI+Developer;Full+Stack+Developer;Java+Developer;Learning+New+Technologies"/>
+# 👋 Hello, I'm **Tarun Jayant V M**
 
-<img src="https://komarev.com/ghpvc/?username=tarunjayantvm&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=900&lines=Software+Engineer;AI%2FML+Engineer;Generative+AI+Developer;Agentic+AI+Developer;Full+Stack+Developer;Backend+Developer;Java+%7C+Python+Developer;Always+Learning+New+Technologies"/>
+
+### 🚀 Turning ideas into scalable software & AI-powered solutions
+
+<p align="center">
+<a href="https://linkedin.com/in/tarun-jayant-v-m-49a691292">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+&nbsp;&nbsp;
+<a href="mailto:tarunjayantvm@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/tarunjayantvm">
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
+</a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=tarunjayantvm&label=PROFILE+VIEWS&style=for-the-badge&color=00C853"/>
 
 </div>
 
----
+<p align="center">
 
-<div align="center">
+<img width="720" src="https://user-images.githubusercontent.com/74038190/212749695-0428831b-4c8b-4b74-b1f1-2fb37d7c4c48.gif"/>
 
-<img width="450" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+</p>
 
-</div>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212750607-79f20f3e-7d6d-44d8-a3af-64f07f5d4d78.gif">
+</p>
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
