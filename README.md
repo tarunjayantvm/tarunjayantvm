@@ -5,11 +5,11 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Tarun Jayant V M</h1>
-<h3>
+<h3 align="center">
 💻 Software Engineer • 🤖 AI/ML Engineer • 🚀 GenAI Enthusiast
 </h3>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&duration=2800&pause=900&color=00FF88&center=true&vCenter=true&width=850&lines=Building+LLM+Applications;Developing+Agentic+AI+Systems;FastAPI+%7C+Spring+Boot;Full+Stack+Development;Open+Source+Contributor;Always+Exploring+New+Technologies"/>
+<img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&duration=2800&pause=900&color=00FF88&center=true&vCenter=true&width=850&lines=Building+LLM+Applications;Developing+Agentic+AI+Systems;FastAPI+%7C+Spring+Boot;Full+Stack+Development;Open+Source+Contributor;Always+Exploring+New+Technologies"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarunjayantvm&label=Profile%20views&color=0e75b6&style=flat" alt="tarunjayantvm" /> </p>
 
