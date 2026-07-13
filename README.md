@@ -11,7 +11,7 @@
 💻 Software Engineer • 🤖 AI/ML Engineer • 🚀 GenAI Enthusiast
 </h3>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&duration=2800&pause=900&color=00FF88&center=true&vCenter=true&width=850&lines=Building+LLM+Applications;Developing+Agentic+AI+Systems;FastAPI+%7C+Spring+Boot;Full+Stack+Development;Open+Source+Contributor;Always+Exploring+New+Technologies"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&duration=2800&pause=900&color=00FF88&center=true&vCenter=true&width=850&lines=Building+LLM+Applications;Developing+Agentic+AI+Systems;FastAPI+%7C;Full+Stack+Development;Open+Source+Contributor;Always+Exploring+New+Technologies"/>
 
 </div>
 
@@ -36,6 +36,8 @@
 <a href="https://linkedin.com/in/tarun-jayant-v-m-49a691292" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tarun-jayant-v-m-49a691292" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/tarunjayantvm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tarunjayantvm" height="30" width="40" /></a>
 </p>
+
+---
 
 ## 🛠️ Tech Stack:
 
