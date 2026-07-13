@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<h1 align="center">Hi ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm Tarun Jayant V M</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm Tarun Jayant V M</h1>
 <h3>
 💻 Software Engineer • 🤖 AI/ML Engineer • 🚀 GenAI Enthusiast
 </h3>
