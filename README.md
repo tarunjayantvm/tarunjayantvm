@@ -1,7 +1,5 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&color=0:0f2027,50:00C853,100:0575E6"/>
-
 <h1>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/>
 Tarun Jayant V M
