@@ -13,6 +13,8 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&duration=2800&pause=900&color=00FF88&center=true&vCenter=true&width=850&lines=Building+LLM+Applications;Developing+Agentic+AI+Systems;FastAPI+%7C+Spring+Boot;Full+Stack+Development;Open+Source+Contributor;Always+Exploring+New+Technologies"/>
 
+</div>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarunjayantvm&label=Profile%20views&color=0e75b6&style=flat" alt="tarunjayantvm" /> </p>
 
 - 🌱 I’m currently learning **Agentic AI, Multi-Agent Systems, System Design, Docker, AWS**
