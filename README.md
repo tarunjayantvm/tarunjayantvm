@@ -23,7 +23,7 @@
 
 - 🌱 I’m currently learning **Agentic AI, Multi-Agent Systems, System Design, Docker, AWS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/tarunjayantvm]((https://github.com/tarunjayantvm?tab=repositories))
+- 👨‍💻 All of my projects are available at [https://github.com/tarunjayantvm](https://github.com/tarunjayantvm?tab=repositories)
 
 - 💬 Ask me about **Java, Python, FastAPI, REST APIs, Machine Learning, Generative AI & DSA**
 
