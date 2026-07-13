@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/github-header.png" alt="GitHub Header" width="88%" />
+<img src="./assets/github-header.png" alt="GitHub Header" width="85%" />
 
 </div>
 
