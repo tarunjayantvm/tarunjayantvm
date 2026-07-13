@@ -29,25 +29,6 @@
 
 - ⚡ Fun fact **I enjoy turning real-world problems into intelligent AI-powered software solutions and continuously learning new technologies.**
 
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://linkedin.com/in/tarun-jayant-v-m-49a691292">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:tarunjayantvm@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-<a href="https://github.com/tarunjayantvm">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-</p>
-
 ---
 
 # 🛠️ Tech Stack
