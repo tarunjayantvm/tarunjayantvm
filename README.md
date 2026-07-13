@@ -29,17 +29,6 @@
 
 - ⚡ Fun fact **I enjoy turning real-world problems into intelligent AI-powered software solutions and continuously learning new technologies.**
 
-<h1>
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/>
-Tarun Jayant V M
-</h1>
-
-<h3>
-💻 Software Engineer • 🤖 AI/ML Engineer • 🚀 GenAI Enthusiast
-</h3>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&duration=2800&pause=900&color=00FF88&center=true&vCenter=true&width=850&lines=Building+LLM+Applications;Developing+Agentic+AI+Systems;FastAPI+%7C+Spring+Boot;Full+Stack+Development;Open+Source+Contributor;Always+Exploring+New+Technologies"/>
-
 <br>
 
 <img src="https://github-profile-trophy.vercel.app/?username=tarunjayantvm&theme=matrix&no-frame=true&no-bg=true&row=1&column=6"/>
