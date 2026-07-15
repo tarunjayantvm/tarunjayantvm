@@ -80,10 +80,37 @@
 
 ---
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=tarunjayantvm&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=tarunjayantvm&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=tarunjayantvm&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+## 📊 GitHub Stats
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+
+<img src="https://github-readme-stats.shion.dev/api?username=tarunjayantvm&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false" />
+
+</td>
+
+<td align="center">
+
+<img src="https://streak-stats.demolab.com/?user=tarunjayantvm&theme=highcontrast&hide_border=false" />
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="center">
+
+<br>
+
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=tarunjayantvm&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
