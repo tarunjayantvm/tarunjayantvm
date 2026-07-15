@@ -39,10 +39,22 @@
 
 ---
 
-## Connect with me:
-<p align="left">
-<a href="https://linkedin.com/in/tarun-jayant-v-m-49a691292" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tarun-jayant-v-m-49a691292" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/tarunjayantvm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tarunjayantvm" height="30" width="40" /></a>
+## 🤝 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/tarun-jayant-v-m-49a691292" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="38" width="38" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="mailto:tarunjayantvm@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="38" width="38" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://leetcode.com/tarunjayantvm" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="38" width="38" />
+  </a>
 </p>
 
 ---
