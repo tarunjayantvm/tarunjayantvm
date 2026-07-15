@@ -51,30 +51,68 @@
 
 <div align="center">
 
-### 💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,c,js" />
-</p>
+<table>
+<tr>
 
-### 🌐 Web Development
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,spring,fastapi" />
-</p>
+<td align="center" width="33%">
+
+### 💻 Languages
+
+<img src="https://skillicons.dev/icons?i=java,python,cpp,c,js"/>
+
+</td>
+
+<td align="center" width="33%">
+
+### 🌐 Web
+
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,spring,fastapi"/>
+
+</td>
+
+<td align="center" width="33%">
 
 ### 🤖 AI / ML
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
-</p>
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
+
+<br>
+
+<sub>GenAI • LLMs • Agentic AI</sub>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
 
 ### 🗄️ Database
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
 
-### ☁️ DevOps & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,aws,linux,postman,vscode" />
-</p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+
+</td>
+
+<td align="center">
+
+### ☁️ Cloud & DevOps
+
+<img src="https://skillicons.dev/icons?i=docker,aws,linux"/>
+
+</td>
+
+<td align="center">
+
+### 🛠️ Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode"/>
+
+</td>
+
+</tr>
+
+</table>
 
 </div>
 
