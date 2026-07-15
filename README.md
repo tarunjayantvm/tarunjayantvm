@@ -47,6 +47,8 @@
 
 ---
 
+<div align="center">
+
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
@@ -73,6 +75,8 @@
 <p>
   <img src="https://skillicons.dev/icons?i=docker,git,github,aws,linux,postman,vscode" />
 </p>
+
+</div>
 
 ---
 
