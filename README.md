@@ -183,13 +183,15 @@
 
 ## 🐍 Contribution Snake
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tarun-Jayant/Tarun-Jayant/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tarun-Jayant/Tarun-Jayant/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/Tarun-Jayant/Tarun-Jayant/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tarunjayantvm/tarunjayantvm/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tarunjayantvm/tarunjayantvm/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/tarunjayantvm/tarunjayantvm/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
 
 ### ⭐ Thanks for visiting my profile!
 
