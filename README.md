@@ -8,10 +8,10 @@
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm Tarun Jayant V M</h1>
 <h3>
-💻 Aspiring Software Engineer  • 🚀 GenAI Enthusiast
+💻 Aspiring Software Engineer   • 🚀 GenAI Enthusiast
 </h3>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&duration=2800&pause=900&color=00FF88&center=true&vCenter=true&width=850&lines=Building+LLM+Applications;Developing+Agentic+AI+Systems;Full+Stack+Developer;Java+Developer;Open+Source+Contributor;Always+Exploring+New+Technologies"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&duration=2800&pause=900&color=00FF88&center=true&vCenter=true&width=850&lines=Building+LLM+Applications;Developing+Agentic+AI+Systems;Java+Developer;Open+Source+Contributor;Always+Exploring+New+Technologies"/>
 
 </div>
 
